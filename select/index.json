@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Love Me Not",
+  "base_artist": "Ravyn Lenae",
+  "createdAt": "2026-03-23T14:28:58.453226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Whitney Woerz",
+      "has_synced": true,
+      "path": "select/01_Love_Me_Not_Whitney_Woerz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Me, Love Me Not",
+      "artist": "Shay Lia",
+      "has_synced": true,
+      "path": "select/02_Love_Me,_Love_Me_Not_Shay_Lia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "J. Cole",
+      "has_synced": false,
+      "path": "select/03_Love_Me_Not_J._Cole.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Skepta feat. Cheb Rabi & B Live",
+      "has_synced": true,
+      "path": "select/04_Love_Me_Not_Skepta_feat._Cheb_Rabi_&_B_Live.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Me Not (Ft. Cheb Rabi & B Live)",
+      "artist": "Skepta",
+      "has_synced": true,
+      "path": "select/05_Love_Me_Not_(Ft._Cheb_Rabi_&_B_Live)_Skepta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Skepta",
+      "has_synced": true,
+      "path": "select/06_Love_Me_Not_Skepta.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Me Not (feat. Cheb Rabi & B-Live)",
+      "artist": "Skepta",
+      "has_synced": true,
+      "path": "select/07_Love_Me_Not_(feat._Cheb_Rabi_&_B-Live)_Skepta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "JayteKz",
+      "has_synced": true,
+      "path": "select/08_Love_Me_Not_JayteKz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Me, Love Me Not",
+      "artist": "Hal Ketchum",
+      "has_synced": false,
+      "path": "select/09_Love_Me,_Love_Me_Not_Hal_Ketchum.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "love me not",
+      "artist": "eli.",
+      "has_synced": true,
+      "path": "select/10_love_me_not_eli..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Emei",
+      "has_synced": true,
+      "path": "select/11_Love_Me_Not_Emei.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Emei",
+      "has_synced": false,
+      "path": "select/12_Love_Me_Not_Emei.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Emei - Love Me Not (Official Lyric Video)",
+      "artist": "Emei",
+      "has_synced": true,
+      "path": "select/13_Emei_-_Love_Me_Not_(Official_Lyric_Video)_Emei.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Kam Prada feat. KAYAM",
+      "has_synced": true,
+      "path": "select/14_Love_Me_Not_Kam_Prada_feat._KAYAM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Kam Prada, Kayam",
+      "has_synced": true,
+      "path": "select/15_Love_Me_Not_Kam_Prada,_Kayam.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Bao The Whale feat. Overspace",
+      "has_synced": true,
+      "path": "select/16_Love_Me_Not_Bao_The_Whale_feat._Overspace.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Me Not",
+      "artist": "Bao The Whale, Overspace",
+      "has_synced": true,
+      "path": "select/17_Love_Me_Not_Bao_The_Whale,_Overspace.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Me_Not_Ravyn_Lenae.txt"
+    }
+  ]
+}
